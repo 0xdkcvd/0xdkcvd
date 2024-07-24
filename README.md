@@ -15,7 +15,7 @@ I'm a Mobile & Web Apps Developer and Blockchain Enthusiast based in Indonesia. 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ## Reach Me
-[![X Badge](https://img.shields.io/badge/-X-000?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/cumaseribuan)](https://x.com/cumaseribuan
+[![X Badge](https://img.shields.io/badge/-X-000?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/cumaseribuan)](https://x.com/cumaseribuan)
 
 <!--
 **0xdkcvd/0xdkcvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
