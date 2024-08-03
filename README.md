@@ -1,4 +1,4 @@
-# Hi there, I'm 0xdkcvd 👋
+# Hi there 👋
 
 ## About Me
 I'm a Mobile & Web Apps Developer and Blockchain Enthusiast based in Indonesia. Passionate about building innovative solutions and exploring new technologies.
