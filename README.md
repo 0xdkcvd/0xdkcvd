@@ -5,8 +5,7 @@ I'm a Mobile & Web Apps Developer and Blockchain Enthusiast based in Indonesia. 
 
 
 ## My GitHub Stats
-![0xdkcvd's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdkcvd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdkcvd&layout=compact&theme=radical)
+![Alt](https://repobeats.axiom.co/api/embed/c6b6ee9e6256442de93fba2b585af8ec9b3d5aa1.svg "Repobeats analytics image")
 
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
@@ -15,7 +14,7 @@ I'm a Mobile & Web Apps Developer and Blockchain Enthusiast based in Indonesia. 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ## Reach Me
-[![X Badge](https://img.shields.io/badge/-X-000?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/cumaseribuan)](https://x.com/cumaseribuan)
+
 
 <!--
 **0xdkcvd/0xdkcvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
